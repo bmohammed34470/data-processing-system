@@ -1,5 +1,3 @@
-# data-processing-system
-
 # Data Processing System
 
 ## Overview
